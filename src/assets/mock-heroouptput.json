@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Spiderman",
+      "id": 1
+    },
+    {
+      "name": "Batman",
+      "id": 2
+    },
+    {
+      "name": "Superman",
+      "id": 3
+    },
+    {
+      "name": "Ironman",
+      "id": 4
+    },
+    {
+      "name": "Aquaman",
+      "id": 5
+    }
+  ]

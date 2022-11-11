@@ -1,0 +1,6 @@
+<h2>Heroes</h2>
+<div *ngFor="let hero of heroes">
+    <h3><a>{{hero.name}}</a></h3>
+    <span></span>
+    <app-hero-alert [hero]="hero" (notify)="OnNotify()"></app-hero-alert>
+</div>
